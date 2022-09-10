@@ -14,8 +14,9 @@ Skills:
 
 ### You can reach me at:
 - <img src="{[BadgeURLHere]}" /> Linkedin
-- <img src="{[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white]}" /> Oldschool Mail : [divyansh2201@gmail.com]("divyansh2201@gmail.com")
+- <img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" /> Oldschool Mail : divyansh2201@gmail.com
 - Github
+- <img src="{https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white}" />
 - 🔭 I’m currently working on this page. 
 
 
