@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Divyansh Agarwal</h1>
-<h3 align="center">An enthusiastic</h3>
+<h3 align="center">An enthusiastic engineer, learning Machine Learning and Data Science</h3>
+
+- 🔭 I’m currently working on **Depth Estimation for embedded machines**
+
+- 🌱 I’m currently learning **Computer Vision and NLP**
+
+- 💬 Ask me about **Data Science, Machine Learning and Autonomous Vehicles**
+
+- 📫 How to reach me **divyansh2201@gmail.com**
+
+- ⚡ Fun fact **I am a great cook**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
