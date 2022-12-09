@@ -3,13 +3,15 @@
 
 - 🔭 I’m currently working on **Depth Estimation for embedded machines**
 
+- 📽️ I'm working on a project on **Optimizing the task distribution algorithm for Cloud Data Centres**
+
 - 🌱 I’m currently learning **Computer Vision and NLP**
 
 - 💬 Ask me about **Data Science, Machine Learning and Autonomous Vehicles**
 
 - 📫 How to reach me **divyansh2201@gmail.com**
 
-- ⚡ Fun fact **I am a great cook**
+- ⚡ Fun fact **I love sports and cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
