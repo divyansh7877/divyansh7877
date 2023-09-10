@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Science, Machine Learning and Autonomous Vehicles**
 
-- 📫 You can reach me at **divyansh2201@gmail.com**
+- 📫 You can reach me at **divyansh.agarwal@nyu.edu**
 
 - ⚡ Fun fact **I love sports and cooking**
 
