@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Divyansh Agarwal</h1>
 <h3 align="center">An enthusiastic engineer, learning Machine Learning and Data Science</h3>
 
-- 🔭 I’m currently working on **Depth Estimation for embedded machines**
+- 🔭 I’m currently a student at NYU pursuin **Masters of Science in Computer Science**
 
-- 📽️ I'm working on a project on **Optimizing the task distribution algorithm for Cloud Data Centres**
+<!-- - 📽️ I'm working on a project on **Optimizing the task distribution algorithm for Cloud Data Centres** -->
 
-- 🌱 I’m currently learning **Computer Vision and NLP**
+- 🌱 I’m currently learning **AI for Games and LLMs**
 
 - 💬 Ask me about **Data Science, Machine Learning and Autonomous Vehicles**
 
 - 📫 You can reach me at **divyansh.agarwal@nyu.edu**
 
-- ⚡ Fun fact **I love sports and cooking**
+- ⚡ Fun fact **I love sports, music and cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
