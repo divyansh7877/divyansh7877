@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyansh Agarwal</h1>
 <h3 align="center">An enthusiastic engineer, learning Machine Learning and Data Science</h3>
 
-- 🔭 I’m currently a student at NYU pursuin **Masters of Science in Computer Science**
+- 🔭 I’m currently a student at NYU pursuing **Masters of Science in Computer Science**
 
 <!-- - 📽️ I'm working on a project on **Optimizing the task distribution algorithm for Cloud Data Centres** -->
 
