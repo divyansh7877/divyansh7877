@@ -11,9 +11,9 @@
 
 - 📫 You can reach me at **divyansh.agarwal@nyu.edu**
 
-- ⚡ Fun fact **I love sports, music and cooking**
+- 🐤 Fun fact **I love sports, music and cooking**
 
--   You can also checkout my website <a href="https://divyansh7877.github.io/myPortfolio/">here</a>.
+- ⚡ You can also checkout my website <a href="https://divyansh7877.github.io/myPortfolio/">here</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
