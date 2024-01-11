@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I love sports, music and cooking**
 
+-   You can also checkout my website <a href="https://divyansh7877.github.io/myPortfolio/">here</a>.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/divyansh2201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh2201" height="30" width="40" /></a>
