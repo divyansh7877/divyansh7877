@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a student at NYU pursuing **Masters of Science in Computer Science**
 
-<!-- - 📽️ I'm working on a project on **Optimizing the task distribution algorithm for Cloud Data Centres** -->
+- 📽️ I'm working on a project on **Creating search API using arXiv open search API,** and also on **Creating Visualization for NYC landmarks, using opendatasets.**
 
 - 🌱 I’m currently learning **AI for Games and LLMs**
 
