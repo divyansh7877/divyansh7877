@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyansh Agarwal</h1>
 <h3 align="center">Engineer, Researcher & AI Explorer | MS CS @ NYU | IBM Certified</h3>
 
-- 🎓 I'm currently pursuing a **Master’s in Computer Science** at **NYU**, focusing on **AI, Computer Vision, and LLMs**
+- 🎓 I have recently completed **Master’s in Computer Science** at **NYU**, focusing on **AI, Computer Vision, and LLMs**
 
 - 🔍 I’m actively working on projects like  **Event Detection in Neural Voltage Scans** and **End-to-End AWS Photo Web App**
 
