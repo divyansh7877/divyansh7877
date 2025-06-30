@@ -11,7 +11,7 @@
 
 - 📫 Reach me at: **divyansh.agarwal@nyu.edu**
 
-- 🌟 Fun fact: When I’m not coding, I’m likely gaming, vibing to music(checkout this playlist:<a href="https://music.apple.com/us/playlist/replay-all-time/pl.rp-M9C5aVvZPo">Replay</a>), or cooking something spicy 🥘
+- 🌟 Fun fact: When I’m not coding, I’m likely gaming, vibing to music (checkout this playlist: <a href="https://music.apple.com/us/playlist/replay-all-time/pl.rp-M9C5aVvZPo">Replay</a>), or cooking something spicy 🥘
 
 - 🌐 Explore more on my website: <a href="https://divyansh7877.github.io/myPortfolio/">divyansh7877.github.io/myPortfolio</a>
 
