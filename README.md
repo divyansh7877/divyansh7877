@@ -15,6 +15,11 @@
 
 - 🌐 Explore more on my website: <a href="https://divyansh7877.github.io/myPortfolio/">divyansh7877.github.io/myPortfolio</a>
 
+
+Few cents:
+I am NOT a vibe coder, it feels like derogatory term to me. Don't get me wrong, AI coder are really helpful and great tool, and I use them as well, but a great sharp knife does not make you a chef. 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/divyansh2201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh2201" height="30" width="40" /></a>
