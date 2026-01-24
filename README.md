@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Divyansh Agarwal</h1>
+<h1 align="center">Hi 👋, I'm Div</h1>
 <h3 align="center">Engineer, Researcher & AI Explorer | MS CS @ NYU | IBM Certified</h3>
 
 - 🎓 I have recently completed **Master’s in Computer Science** at **NYU**, focusing on **AI, Computer Vision, and LLMs**
 
-- 🔍 I’m actively working on projects like  **Event Detection in Neural Voltage Scans** and **End-to-End AWS Photo Web App**
+- 🔍 I’m actively working on projects like  **Event Detection in Neural Voltage Scans** and **Sorting for Weblistings** and **confidential stuff**
 
-- 🧠 I’m diving deeper into **AI for Games**, **autonomous systems**, and **language models**
+- 🧠 I love diving deeper into **AI for Games**, **autonomous systems**, **language models**, **robots** and **finance** (**blockchains as well)**
 
 - 💬 Feel free to reach out about **Data Science, Deep Learning, Autonomous Vehicles, or just tech in general!**
 
 - 📫 Reach me at: **divyansh.agarwal@nyu.edu**
 
-- 🌟 Fun fact: When I’m not coding, I’m likely gaming, vibing to music (checkout this playlist: <a href="https://music.apple.com/us/playlist/replay-all-time/pl.rp-M9C5aVvZPo">Replay</a>), or cooking something spicy 🥘
+- 🌟 Fun fact: When I’m not coding, I’m likely vibing to music (checkout my <a href="https://open.spotify.com/user/x35k3ki8ih8vkm0wki7wjg4bm?si=da8d5370fed2426c">Spotify Profile</a>), working out or cooking something unique!
 
 - 🌐 Explore more on my website: <a href="https://divyansh7877.github.io/myPortfolio/">divyansh7877.github.io/myPortfolio</a>
 
