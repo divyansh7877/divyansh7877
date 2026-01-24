@@ -11,7 +11,7 @@
 
 - 📫 Reach me at: **divyansh.agarwal@nyu.edu**
 
-- 🌟 Fun fact: When I’m not coding, I’m likely vibing to music (checkout my <a href="https://open.spotify.com/user/x35k3ki8ih8vkm0wki7wjg4bm?si=da8d5370fed2426c"><img align="center" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="30" width="30" />Spotify Profile</a>), working out or cooking something unique!
+- 🌟 Fun fact: When I’m not coding, I’m likely vibing to music (checkout my <a href="https://open.spotify.com/user/x35k3ki8ih8vkm0wki7wjg4bm?si=da8d5370fed2426c"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" height="30" width="30" />Spotify Profile</a>), working out or cooking something unique!
 
 - 🌐 Explore more on my website: <a href="https://divyansh7877.github.io/myPortfolio/">divyansh7877.github.io/myPortfolio</a>
 
