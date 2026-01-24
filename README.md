@@ -11,7 +11,7 @@
 
 - 📫 Reach me at: **divyansh.agarwal@nyu.edu**
 
-- 🌟 Fun fact: When I’m not coding, I’m likely vibing to music (checkout my <a href="https://open.spotify.com/user/x35k3ki8ih8vkm0wki7wjg4bm?si=da8d5370fed2426c">Spotify Profile</a>), working out or cooking something unique!
+- 🌟 Fun fact: When I’m not coding, I’m likely vibing to music (checkout my <a href="https://open.spotify.com/user/x35k3ki8ih8vkm0wki7wjg4bm?si=da8d5370fed2426c"><img align="center" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="30" width="30" />Spotify Profile</a>), working out or cooking something unique!
 
 - 🌐 Explore more on my website: <a href="https://divyansh7877.github.io/myPortfolio/">divyansh7877.github.io/myPortfolio</a>
 
@@ -24,6 +24,7 @@ I am NOT a vibe coder, it feels like derogatory term to me. Don't get me wrong, 
 <p align="left">
 <a href="https://linkedin.com/in/divyansh2201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyansh2201" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/divyansh_agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="divyansh_agarwal" height="30" width="40" /></a>
+<a href="https://x.com/div__vi" target="_blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
