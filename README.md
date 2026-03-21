@@ -11,8 +11,8 @@
 ---
 
 Building intelligent systems at the intersection of research and product.  
-Currently a **Full Stack Engineer at AdsGency AI** (SF), shipping AI-assisted querying and ad generation systems.  
-Previously: neural event detection research at **NYU Neuroinformatics Lab** (0.92 F1).
+Previously: **Full Stack Engineer at AdsGency AI** (SF), shipping AI-assisted querying and ad generation systems.  
+AI Research at **NYU Neuroinformatics Lab**.
 
 ---
 
