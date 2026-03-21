@@ -71,7 +71,7 @@ AI for real products · retrieval systems · autonomous vehicles · computer vis
 | **Neural Trace Explorer** | Browser-based interactive analysis of calcium-trace neural data | Next.js · TypeScript · Python |
 | **Cloud-Native Social Automation** | Serverless 5-stage content pipeline with AI captioning | AWS Lambda · Rekognition · Bedrock · OpenSearch |
 
----
+<!--
 
 ### 📊 GitHub Stats
 
@@ -84,7 +84,8 @@ AI for real products · retrieval systems · autonomous vehicles · computer vis
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyansh7877&hide_border=true" />
 </p>
 
----
+-->
+
 
 ### 🎵 Beyond Code
 
