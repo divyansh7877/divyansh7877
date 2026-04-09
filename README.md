@@ -89,7 +89,7 @@ AI for real products · retrieval systems · autonomous vehicles · computer vis
 
 ### 🎵 Beyond Code
 
-When I'm not building, I'm probably reading Dostoevsky, experimenting in the kitchen, or vibing to Dire Straits.  
+When I'm not building, I'm probably reading, cooking or vibing to music.  
 Check out my [Spotify](https://open.spotify.com/user/x35k3ki8ih8vkm0wki7wjg4bm?si=da8d5370fed2426c) if you're curious about the soundtrack.
 
 ---
